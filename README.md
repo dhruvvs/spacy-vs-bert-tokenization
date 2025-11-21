@@ -41,6 +41,3 @@ This notebook makes that process explicit and easy to see.
 
 ---
 
-
-├── README.md                     # Project documentation
-└── requirements.txt              # (Optional) Python dependencies
